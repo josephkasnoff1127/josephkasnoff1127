@@ -1,4 +1,3 @@
-- What I cannot create, I do not understand
 - I like to train Neural Network on Large/Small Dataset
 - Someday I will make a meaningful contribution to the world
 
